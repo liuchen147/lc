@@ -1,0 +1,19 @@
+1568451743022	Copy package
+1568451749309	Delete element
+1568451794899	Rename package 'entity'
+1568452125205	Rename resource 'hello.jsp'
+1568452289128	Move 'index.jsp' to 'WEB-INF'
+1568452334622	Move 'hellowrod.jsp' to 'views'
+1568452576847	Rename type 'Helloword'
+1568452615684	Rename resource 'hellowrod.jsp'
+1568453779660	Delete element
+1568454554262	Delete element
+1568455014726	Move 'index.jsp' to 'WebContent'
+1568455654342	Delete element
+1568457693291	Delete element
+1568457839771	Delete element
+1568458914080	Delete element
+1568459103921	Rename package 'com.ischoolbar.programmer'
+1568459137286	Delete element
+1568461656551	Move 'web.xml' to 'WEB-INF'
+1568465553222	Rename resource 'hello.jsp'

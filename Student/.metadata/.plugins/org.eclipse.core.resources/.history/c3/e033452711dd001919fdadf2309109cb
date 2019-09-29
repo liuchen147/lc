@@ -1,0 +1,19 @@
+package com.lc.entity;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Student {
+	
+	private Long id;
+	private String sn;//学号
+	private Long clazzId;//班级id
+	private String username;
+	private String password;
+	private String sex;
+	private String photo;//头像
+	private String remark;//备注
+	
+	
+		
+}
